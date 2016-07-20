@@ -25,7 +25,7 @@ Example: A `<structure>` of `[[1,2,2],[3,1,3],[1,4]]` can return:<br />
 `ANYWHERE AND EVERYWHERE`<br />
 `BUT BEGRUDINGLY`<br />
 
-The inclusion of an optional [corpus] file provides an input
+The inclusion of an optional, plain-text `[corpus]` file provides an input
 from which the haiku is generated.
 
 For educational and entertainment purposes only.
