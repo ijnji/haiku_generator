@@ -10,6 +10,7 @@ Each line only has to add up to the syllable count for that line.<br />
 Recommended when a [corpus] is included.<br />
 
 Example: A `<structure>` of `[5,7,5]` can return:<br />
+
 `A KITTY FOLLOWS`<br />
 `ANYWHERE AND EVERYWHERE`<br />
 `BUT BEGRUDINGLY`<br />
@@ -19,6 +20,7 @@ With a 2D array of positive integers, [[/d,/d,..],[/d,/d,..],[/d,/d,..]]<br />
 Each word in a line will match exactly the syllables specified for that line.<br />
 
 Example: A `<structure>` of `[[1,2,2],[3,1,3],[1,4]]` can return:<br />
+
 `A KITTY FOLLOWS`<br />
 `ANYWHERE AND EVERYWHERE`<br />
 `BUT BEGRUDINGLY`<br />
