@@ -1,8 +1,8 @@
 # haiku_generator.js
 <b>usage:</b> `node haiku_generator.js <structure> [corpus]`
 
-Example: `node haiku_generator.js [5,7,5] fifty_shades.txt`
-Example: `node haiku_generator.js [[1,2,2],[3,1,3],[1,4]]`
+Example: `node haiku_generator.js [5,7,5] fifty_shades.txt`<br />
+Example: `node haiku_generator.js [[1,2,2],[3,1,3],[1,4]]`<br />
 
 <b>Structure format 1:</b><br />
 With a 1D array of positive integers, [/d,/d,/d]
